@@ -8,7 +8,7 @@ P(c) is the prior probability of class.
 P(x|c) is the likelihood which is the probability of predictor given class.
 P(x) is the prior probability of predictor.
 
-There are three types of Naive Bayes model under scikit learn library:
+# There are three types of Naive Bayes model under scikit learn library:
 
 ## Gaussian: 
 It is used in classification and it assumes that features follow a normal distribution.
